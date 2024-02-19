@@ -251,7 +251,7 @@
 각 서비스의 데이터베이스는 논리적으로 분리되어 있어, 다른 서비스의 데이터가 필요한 경우 내부 통신을 통해 이용
 
 ## ☁️ Infrastructures
-## Amazon Web Service
+### Amazon Web Service
 
 ![](https://github.com/ssg-salesync/.github/blob/main/assets/aws.png)
 
